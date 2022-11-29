@@ -1,6 +1,7 @@
 Olá sou a Adedayo!!!
 
-Sou iniciante no estudo de programação, com interesse no desenvolvimento web Front-end
+Sou iniciante no estudo de programação, com interesse no desenvolvimento Web Front-end.
+
 Sou uma pessoa determinada, aprendo rápido e trabalho bem em equipe
 
 O que eu sei:
