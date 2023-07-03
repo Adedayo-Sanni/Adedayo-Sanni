@@ -1,7 +1,7 @@
 Olá sou a Adedayo seja bem vinda(o) ao meu perfil!!
 
 Sou iniciante no estudo de programação, com interesse no desenvolvimento Web Front-end.
-Atualmente sou curso engenharia de software na escola [42 São Paulo](https://www.42sp.org.br/) e curso Análise e Desenvolvimento de Sistemas na Anhembi Morumbi
+Atualmente curso Engenharia de Software na escola [42 São Paulo](https://www.42sp.org.br/) e  Análise e Desenvolvimento de Sistemas na Anhembi Morumbi
 
 
 O que eu sei:
