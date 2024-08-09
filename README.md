@@ -11,7 +11,15 @@ O que eu sei:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adedayo-Sanni&show_icons=true&theme=radical)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adedayo-Sanni&show_icons=true&theme=transparent&hide_rank=true&title_color=dc7f9b)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedayo-Sanni&layout=compact&theme=transparent&title_color=dc7f9b)](https://github.com/Adedayo-Sanni)
+
+
+
+
+
 
 Me encontre em:
 
