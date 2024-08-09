@@ -13,8 +13,8 @@ O que eu sei:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adedayo-Sanni&show_icons=true&theme=transparent&hide_rank=true&title_color=dc7f9b)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedayo-Sanni&layout=compact&theme=transparent&title_color=dc7f9b)](https://github.com/Adedayo-Sanni)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adedayo-Sanni&show_icons=true&theme=transparent&hide_rank=true&title_color=ff0066&text_color=fa5333&icon_color=000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedayo-Sanni&layout=compact&theme=transparent&title_color=ff0066&text_color=fa5333)](https://github.com/Adedayo-Sanni)
 
 
 
