@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu GitHub!
 
 Sou estudante de **Engenharia de Software** na [42 São Paulo](https://www.42sp.org.br/) e de **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi. 
-Atualmente sou estagiária na área de Engenharia de Plataformas do Itaú, onde desenvolvo soluções internas que impactam diretamente usuários e operações.
+Atualmente sou estagiária na área de Engenharia de Plataformas do Itaú Unibanco, onde desenvolvo soluções internas que impactam diretamente usuários e operações.
 
 ## 🚀 Principais Habilidades
 
@@ -25,12 +25,18 @@ Atualmente sou estagiária na área de Engenharia de Plataformas do Itaú, onde 
 
 ---
 
+## 🚀 Destaque Profissional
+
+Recentemente, apresentei para a superintendência o projeto que desenvolvi do zero. Criei um **totem de triagem com ServiceNow + JavaScript**, hoje em uso  com mais de **4 mil acessos mensais** e em processo de expansão.
+
+📌 Veja a publicação no LinkedIn:  
+🔗 [Apresentação do projeto](https://www.linkedin.com/feed/update/urn:li:activity:7338658764884967424/)
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedayo-Sanni&layout=compact&theme=transparent&title_color=ff0066&text_color=fa5333)](https://github.com/Adedayo-Sanni)
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adedayo-Sanni&show_icons=true&theme=transparent&hide_rank=true&title_color=ff0066&text_color=fa5333&icon_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedayo-Sanni&layout=compact&theme=transparent&title_color=ff0066&text_color=fa5333)](https://github.com/Adedayo-Sanni)
+
 
 
 
