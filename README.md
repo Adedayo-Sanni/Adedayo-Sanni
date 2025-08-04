@@ -15,6 +15,19 @@ Atualmente sou estagiária na área de Engenharia de Plataformas do Itaú, onde 
 
 > Em aprendizado contínuo: C#, React, AWS....
 
+## 📂 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [MiniShell](https://github.com/Adedayo-Sanni/Minishell) | implementação de um shell minimalista em C | C |
+| [Philosophers](https://github.com/Adedayo-Sanni/Philosophers) | implementação do clássico problema dos filósofos | threads, mutexes e C |
+| [So_long](https://github.com/Adedayo-Sanni/So_long) | Jogo 2D | MLX42 e C |
+
+---
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedayo-Sanni&layout=compact&theme=transparent&title_color=ff0066&text_color=fa5333)](https://github.com/Adedayo-Sanni)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adedayo-Sanni&show_icons=true&theme=transparent&hide_rank=true&title_color=ff0066&text_color=fa5333&icon_color=ffffff)
